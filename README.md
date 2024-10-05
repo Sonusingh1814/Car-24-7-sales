@@ -10,3 +10,19 @@ Total Orders: The total number of orders is 186,000.
 # Visualizations
 ## 1. Sales Quarterly
 A slicer that allows users to filter the data based on quarterly sales.
+
+## 2. Highest Month for Sales
+Displays the top-performing months, with December being the highest at 4.61M USD in sales.
+
+## 3. Top Five Cities for Sales
+Highlights the top five cities with the highest car sales. San Francisco, CA leads with 8.26M USD in sales.
+
+## 4. Top Five Products
+Shows the most popular products, with the USB-C Charging Cable generating the most revenue at 21.9K USD.
+
+## 5. Best Hours of Sales
+A line chart illustrates the hourly sales trends, peaking at 1.67M USD around 7:00 PM.
+
+## Additional Features
+The dashboard includes interactive slicers for filtering sales data by quarters and cities.
+The report is fully responsive and designed for easy navigation and insights discovery.
