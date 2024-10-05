@@ -1,4 +1,6 @@
+![Uploading car sales.png…]()
 # Car Sales Dashboard Report
+
 
 This repository contains a Car Sales Dashboard created using Power BI. The report provides insights into the sales performance of car products, showing key metrics and visualizations. Below are the main features of the report
 
